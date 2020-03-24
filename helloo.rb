@@ -17,7 +17,7 @@ end
 p plus_ruby("like")
 p plus_ruby("yhee")
 def plus_one(num)
-    num =num+1
+   num+1
 end
 p plus_one(4)
 p plus_one(10)
